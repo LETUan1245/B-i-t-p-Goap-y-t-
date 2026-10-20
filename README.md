@@ -11,3 +11,4 @@
 * **Ngôn ngữ:** C#
 * **Hệ thống :Goap(Goal-Orientated Action Planning)
 * **Quản lý phiên bản:** Git & GitHub (Git LFS)
+* Lưu ý: Vào Scene:BasicWorkingHospital
